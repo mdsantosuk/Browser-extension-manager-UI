@@ -1,6 +1,6 @@
 # Frontend Mentor - Browser extensions manager UI
 
-[Design preview for the Browser extensions manager UI coding challenge](./preview.jpg)
+[Design preview for the Browser extensions manager UI coding challenge](https://mdsantosuk.github.io/fm-browser-extension-manager-ui/)
 
 ## Welcome! 👋
 
